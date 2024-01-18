@@ -2,7 +2,8 @@
 
 # Program Kalkulator ini Berfungsi untuk membantu Anda mengerjakan Tugas sekolah semoga bermanfaat buat anda 🙏🙏
 
-# Jangan Lupa Subscribe channel YouTube Panglima Jatim 404 ok
+# Jangan Lupa Subscribe channel YouTube 
+# Panglima Jatim 404 ok
 
 pkg update && pkg upgrade
 
