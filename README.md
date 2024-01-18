@@ -3,7 +3,7 @@
 # Program Kalkulator ini Berfungsi untuk membantu Anda mengerjakan Tugas sekolah semoga bermanfaat buat anda 🙏🙏
 
 # Jangan Lupa Subscribe channel YouTube 
-# Panglima Jatim 404 ok
+# Panglima Jatim 404 
 
 pkg update && pkg upgrade
 
@@ -17,8 +17,8 @@ pkg install figlet
 
 pkg install git
 
-git clone 
+git clone https://github.com/Projeckerror/Kalkulator
 
-cd 
+cd Kalkulator
 
-python3 
+python3 kalkulator.py
